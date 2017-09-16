@@ -15,6 +15,7 @@ Lisk wallet application for Ledger  Nano S
 - Build the ledger wallet code `make`
 - Deploy the ledger wallet code `make load`
 - Undeploy the ledger wallet code `make delete`
+- Clean the ledger wallet code `make clean`
 
 
 ## Developing the Python Lisk Ledger SDK
